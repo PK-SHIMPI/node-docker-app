@@ -1,2 +1,2 @@
 # node-docker-app
-Simple Node.js application with Docker support
+Node.js Todo Application with Docker, Jenkins and CI/CD pipeline
